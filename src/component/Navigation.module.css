@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.currentPage {
+  font-weight: 600;
+}
